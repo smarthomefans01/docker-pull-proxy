@@ -1,4 +1,4 @@
-ghcr.io/home-assistant/amd64-hassio-supervisor:2024.09.1 registry.cn-hangzhou.aliyuncs.com/smarthomefans/amd64-hassio-supervisor:2024.09.1
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.09.1 registry.cn-hangzhou.aliyuncs.com/smarthomefans/aarch64-hassio-supervisor:2024.09.1
+ghcr.io/home-assistant/amd64-hassio-supervisor:2024.10.0 registry.cn-hangzhou.aliyuncs.com/smarthomefans/amd64-hassio-supervisor:2024.10.0
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.10.0 registry.cn-hangzhou.aliyuncs.com/smarthomefans/aarch64-hassio-supervisor:2024.10.0
 
 
