@@ -4,3 +4,4 @@ yaming116/sherpa-onnx-asr:paraformer-2024-7-5 registry.cn-hangzhou.aliyuncs.com/
 homeassistant/home-assistant:stable registry.cn-hangzhou.aliyuncs.com/smarthomefans/home-assistant:stable
 
 
+
