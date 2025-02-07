@@ -1,5 +1,5 @@
-ghcr.io/home-assistant/amd64-hassio-supervisor:2024.12.3 registry.cn-hangzhou.aliyuncs.com/smarthomefans/amd64-hassio-supervisor:2024.12.3
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.12.3 registry.cn-hangzhou.aliyuncs.com/smarthomefans/aarch64-hassio-supervisor:2024.12.3
+ghcr.io/home-assistant/amd64-hassio-supervisor:2025.02.0 registry.cn-hangzhou.aliyuncs.com/smarthomefans/amd64-hassio-supervisor:2025.02.0
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.02.0 registry.cn-hangzhou.aliyuncs.com/smarthomefans/aarch64-hassio-supervisor:2025.02.0
 yaming116/sherpa-onnx-asr:paraformer-2024-7-5 registry.cn-hangzhou.aliyuncs.com/smarthomefans/sherpa-onnx-asr:paraformer-2024-7-5
 homeassistant/home-assistant:stable registry.cn-hangzhou.aliyuncs.com/smarthomefans/home-assistant:stable
 
