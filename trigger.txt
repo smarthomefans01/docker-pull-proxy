@@ -3,6 +3,7 @@ ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.03.2 registry.cn-hangzhou.
 yaming116/sherpa-onnx-asr:paraformer-2024-7-5 registry.cn-hangzhou.aliyuncs.com/smarthomefans/sherpa-onnx-asr:paraformer-2024-7-5
 homeassistant/home-assistant:stable registry.cn-hangzhou.aliyuncs.com/smarthomefans/home-assistant:stable
 linuxserver/homeassistant:arm64v8-latest registry.cn-hangzhou.aliyuncs.com/smarthomefans/homeassistant:arm64v8-latest
+ghcr.io/t0bst4r/home-assistant-matter-hub:latest registry.cn-hangzhou.aliyuncs.com/smarthomefans/home-assistant-matter-hub:latest
 
 
 
